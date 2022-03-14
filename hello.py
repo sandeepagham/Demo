@@ -12,4 +12,4 @@ print('Learning Git Pull requests')
 print('One more change')
 print('Fixing newline issue')
 print('This change is from new cloned repo')
-
+print('Additional changes to test sqash merge')
