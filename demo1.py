@@ -8,4 +8,3 @@ print('Additional changes to test sqash merge')
 print('on branch newone')
 print('This is a major fix')
 print('another hotfix')
-
