@@ -16,3 +16,5 @@ print('Additional changes to test sqash merge')
 print('on branch new one')
 print('This is a major fix')
 print('learning about adding new branches')
+print('adding changes for newChanges2 branch')
+
